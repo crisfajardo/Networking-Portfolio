@@ -1,25 +1,30 @@
 # Cisco Networking Fundamentals - Lab Collection
 
-Este repositorio contiene una colección de laboratorios prácticos realizados en **Cisco Packet Tracer** como parte de mi formación en fundamentos de redes. Cada laboratorio se enfoca en configurar, diagnosticar y asegurar infraestructuras de red.
+This repository contains a collection of hands-on labs completed in **Cisco Packet Tracer** as part of my network fundamentals training. Each lab focuses on configuring, troubleshooting, and securing network infrastructures.
 
-## 🛠️ Herramientas Utilizadas
-* **Cisco Packet Tracer** (Versión 8.2 o superior recomendada)
-* Protocolos: TCP/IP, ARP, DHCP, NAT, SSH, FTP, ICMP.
+## 🛠️ Tools & Technologies
+* **Cisco Packet Tracer** (Recommended version 8.2 or higher)
+* **Protocols:** TCP/IP, ARP, DHCP, NAT, SSH, FTP, ICMP.
+* **Skills:** Subnetting, VLAN management, Routing, and Network Security.
 
-## 📁 Contenido de los Laboratorios
+## 📁 Lab Directory
 
-| Laboratorio | Descripción | Conceptos Clave |
+| Lab Name | Description | Key Concepts |
 | :--- | :--- | :--- |
-| **ARP_Gateway** | Análisis del proceso de resolución de direcciones y salida a internet. | ARP, Default Gateway |
-| **NAT_router** | Configuración de traducción de direcciones para redes privadas. | NAT, PAT, Public IP |
-| **Telnet_And_SSH** | Implementación de acceso remoto seguro a dispositivos de red. | VTY, Crypto Keys, SSH |
-| **Configure_DHCP** | Automatización de asignación de direcciones IP en la LAN. | DHCP Pool, Exclusions |
-| **Wireless_Router** | Configuración de redes inalámbricas y seguridad WPA. | WLAN, SSID, Security |
-| **Network_Troubleshooting** | Diagnóstico y resolución de problemas de conectividad. | Ping, Traceroute, OSI Layer |
-| **Service_Analysis** | Interacción entre clientes y servidores (Web, FTP, DNS). | HTTP, FTP, DNS |
+| **ARP_Gateway** | Analyzes the address resolution process and default gateway connectivity. | ARP, Default Gateway |
+| **NAT_router** | Configuring address translation (Static/Dynamic) for private networks. | NAT, PAT, Public IP |
+| **Telnet_And_SSH** | Implementing secure remote access to network devices. | VTY Lines, Crypto Keys, SSH |
+| **Configure_DHCP** | Automating IP address assignment within a Local Area Network. | DHCP Pool, Exclusions |
+| **Wireless_Router** | Setting up wireless connectivity and WPA2 security. | WLAN, SSID, Security |
+| **Network_Troubleshooting** | Diagnosing and resolving common connectivity issues. | Ping, Traceroute, OSI Layers |
+| **Service_Analysis** | Client-server interaction analysis (Web, FTP, and DNS). | HTTP, FTP, DNS |
 
-## 🚀 Cómo usar estos archivos
-1. Descarga e instala **Cisco Packet Tracer**.
-2. Clona este repositorio:
+## 🚀 Getting Started
+1. Download and install **Cisco Packet Tracer**.
+2. Clone this repository:
    ```bash
-   git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
+   git clone [https://github.com/crisfajardo/Networking-Portfolio.git](https://github.com/crisfajardo/Networking-Portfolio.git)
+
+👤 Contact
+
+Linkedin - [www.linkedin.com/in/cristian-fajardo-7132352a6]
