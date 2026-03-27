@@ -40,10 +40,8 @@ This lab simulates a small enterprise network with **static routing** as the sol
 > 📸 **Topology Screenshot**
 >
 > <!-- Replace this block with your actual topology image -->
-> ```
-> ![Network Topology](./images/topology.png)
-> ```
-> *Place your GNS3 or Packet Tracer topology screenshot here.*
+
+ ![Network Topology](./images/topology.png)
 
 ---
 
